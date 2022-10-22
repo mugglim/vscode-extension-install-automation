@@ -1,0 +1,3 @@
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+wayou.vscode-todo-highlight

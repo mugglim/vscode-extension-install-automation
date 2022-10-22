@@ -1,0 +1,5 @@
+{
+  "eslint": "dbaeumer.vscode-eslint",
+  "prettier": "esbenp.prettier-vscode",
+  "todo-highlight": "wayou.vscode-todo-highlight"
+}

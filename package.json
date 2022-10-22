@@ -1,0 +1,10 @@
+{
+  "name": "vscode-extension-install-automation",
+  "version": "1.0.0",
+  "scripts": {
+    "setup:shell-script": "sh ./shell-script/vscode-auto-install.sh",
+    "setup:node": "node ./node/vscode-auto-install.js"
+  },
+  "author": "applewodnr@naver.com",
+  "license": "MIT"
+}
