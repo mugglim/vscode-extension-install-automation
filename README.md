@@ -1,7 +1,7 @@
 # vscode-extension-install-automation
 
-이 글은 Visual Studio Code Extension의 설치 과정을 CLI 환경에서 자동화해주는 방법을 설명하고 있습니다.
-(단, 본인의 환경에서 Visual Studio Code가 설치 되어있어야만 합니다.)
+Visual Studio Code Extension의 설치 과정을 CLI 환경에서 자동화해주는 방법을 설명합니다.
+(단, 본인의 환경에서 Visual Studio Code가 설치 되어 있어야 합니다.)
 
 ## Run with npm script
 
