@@ -1,5 +1,7 @@
 # vscode-extension-install-automation
 
+> (02/07) 더 간단한 방법은 https://github.com/mugglim/config/tree/main/vscode/extensions 링크를 참고해주세요!
+
 Visual Studio Code Extension의 설치 과정을 CLI 환경에서 자동화해주는 방법을 설명합니다.
 (단, 본인의 환경에서 Visual Studio Code가 설치 되어 있어야 합니다.)
 
